@@ -10,14 +10,11 @@ If you are adding a bug report, please add steps to reproduce the bug, exact req
 
 ### The Community:
 
-<img src="https://discordapp.com/assets/94db9c3c1eba8a38a1fcf4f223294185.png" align="right" height="65px"/>
-If you are interested in talking to the team, we are there on Discord. Feel free to drop by and say hello. Our upcoming features and beta releases are discussed here along with deck advice and Die Hard quotes.
+<img src="https://discordapp.com/assets/94db9c3c1eba8a38a1fcf4f223294185.png" align="right" height="65px"/>If you are interested in talking to the team, we are there on Discord. Feel free to drop by and say hello. Our upcoming features and beta releases are discussed here along with deck advice and Die Hard quotes.
 <!---
 Join our Discord Server from: <a href="xxx">xxx</a>.<br />
 -->
-<img src="https://g.twimg.com/dev/img/marketing/twitter-for-websites/header-logo.png" align="right" height="50px"/>
-
-We are also available as <a href="https://www.twitter.com/CRPublicAPI">@CRPublicAPI</a> on Twitter. Feel free to drop in a line wherever it is easiest for you. Twitter would be the best place for you to stay updated with latest news, features and releases regarding cr-api.
+<img src="https://g.twimg.com/dev/img/marketing/twitter-for-websites/header-logo.png" align="right" height="50px"/>We are also available as <a href="https://www.twitter.com/CRPublicAPI">@CRPublicAPI</a> on Twitter. Feel free to drop in a line wherever it is easiest for you. Twitter would be the best place for you to stay updated with latest news, features and releases regarding cr-api.
 
 ### Documentation and Tutorials:
 
