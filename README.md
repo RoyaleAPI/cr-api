@@ -54,4 +54,4 @@ We have put together a short set of guidelines you can follow while adding an is
 
 ---
 
-[![Analytics](https://ga-beacon.appspot.com/UA-105476425-2/cr-api/readme)](https://docs.cr-api.com)
+[![Analytics](https://ga-beacon.appspot.com/UA-105476425-2/cr-api/readme)](https://doc.cr-api.com)
