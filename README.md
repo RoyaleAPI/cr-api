@@ -10,14 +10,14 @@ If you are adding a bug report, please add steps to reproduce the bug, exact req
 
 ### Authors:
 
-<table>
+<table >
 <tr>
 <td><a target="_blank" href="https://github.com/smlbiobot"><img src="https://avatars1.githubusercontent.com/u/25040297" height=80px"></a></td>
 <td><a target="_blank" href="https://github.com/smlbiobot"><img src="https://avatars0.githubusercontent.com/u/7327741" height=80px"></a></td>
 </tr>
 <tr>
-<td><a target="_blank" href="https://github.com/smlbiobot">smlbiobot</a></td>
-<td><a target="_blank" href="https://github.com/smlbiobot">Selfish</a></td>
+<td align="center"><a target="_blank" href="https://github.com/smlbiobot">smlbiobot</a></td>
+<td align="center"><a target="_blank" href="https://github.com/smlbiobot">Selfish</a></td>
 </tr>
 </table>
 
