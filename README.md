@@ -8,6 +8,19 @@ We recommend that you search the issue tracker to check if someone else has alre
 
 If you are adding a bug report, please add steps to reproduce the bug, exact request (method and URL) and response (including response code). Any additonal information (console errors, screenshots) would be helpful.
 
+### Authors:
+
+<table>
+<tr>
+<td><a target="_blank" href="https://github.com/smlbiobot"><img src="https://avatars1.githubusercontent.com/u/25040297" height=80px"></a></td>
+<td><a target="_blank" href="https://github.com/smlbiobot"><img src="https://avatars0.githubusercontent.com/u/7327741" height=80px"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" href="https://github.com/smlbiobot">smlbiobot</a></td>
+<td><a target="_blank" href="https://github.com/smlbiobot">Selfish</a></td>
+</tr>
+</table>
+
 ### The Community:
 
 <img src="https://discordapp.com/assets/94db9c3c1eba8a38a1fcf4f223294185.png" align="right" height="65px"/>If you are interested in talking to the team, we are there on Discord. Feel free to drop by and say hello. Our upcoming features and beta releases are discussed here along with deck advice and Die Hard quotes.
