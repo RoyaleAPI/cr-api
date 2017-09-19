@@ -31,7 +31,7 @@ Join our Discord Server from: <a href="http://discord.me/cr_api">http://discord.
 
 ### Documentation and Tutorials:
 
-If you are looking for more information regarding features and usage of the app, head over to the docs site: <a target="_blank" href="https://docs.cr-api.com"> 
+If you are looking for more information regarding features and usage of the app, head over to the <a target="_blank" href="https://docs.cr-api.com">docs site</a>.
 
 
 ### Contribution:
