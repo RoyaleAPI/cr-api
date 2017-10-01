@@ -46,6 +46,8 @@ Please use the [issue tracker](https://github.com/cr-api/cr-api/issues) to repor
 We are mostly interested in help parsing the server packets. If you don't know what that means, check out <a href="https://github.com/royale-proxy/cr-messages" target="_blank">royale-proxy/cr-messages</a>.
 If you think you can assist, either create an issue and we'll get back to you, or contact us on Twitter or Discord.
 
+For contribution related matters, please DM Selfish on Discord.
+
 
 ### Guidelines for reporting issues:
 
