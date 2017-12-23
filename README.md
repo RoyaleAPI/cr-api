@@ -1,4 +1,4 @@
-<p align="center" style="pointer-events:none"><img src="https://api.cr-api.com/logo.png" height=
+<p align="center" style="pointer-events:none"><img src="https://raw.githubusercontent.com/cr-api/cr-api-docs/master/docs/img/cr-api-logo-b.png" height=
 250px" align="right"></p>
 
 # CR-API Support Tracker
