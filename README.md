@@ -1,7 +1,7 @@
-<p align="center" style="pointer-events:none"><img src="https://raw.githubusercontent.com/cr-api/cr-api-docs/master/docs/img/cr-api-logo-b.png" height=
+<p align="center" style="pointer-events:none"><img src="https://raw.githubusercontent.com/RoyaleAPI/cr-api-docs/master/docs/img/cr-api-logo-b.png" height=
 250px" align="right"></p>
 
-# CR-API Support Tracker
+# Royale API Support Tracker
 
 If you have a suggestion or an issue to report, please use the [issue tracker](https://github.com/cr-api/cr-api/issues).
 We recommend that you search the issue tracker to check if someone else has already reported the issue and whether there is a known solution that you can use. This probably is the fastest way for you to find a solution to any issue that you are facing.
