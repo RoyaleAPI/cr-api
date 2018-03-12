@@ -65,7 +65,7 @@ We have put together a short set of guidelines you can follow while adding an is
 
 ### About CR-API:
 
-<a href="https://www.RoyaleAPI.com">www.cr-api.com</a>
+<a href="https://www.RoyaleAPI.com">www.RoyaleAPI.com</a>
 
 <a href="https://RoyaleAPI.com">RoyaleAPI.com</a>
 
