@@ -67,8 +67,6 @@ We have put together a short set of guidelines you can follow while adding an is
 
 <a href="https://www.RoyaleAPI.com">www.RoyaleAPI.com</a>
 
-<a href="https://RoyaleAPI.com">RoyaleAPI.com</a>
-
 ---
 
 [![Analytics](https://ga-beacon.appspot.com/UA-105476425-2/RoyaleAPI/readme)](https://docs.RoyaleAPI.com)
