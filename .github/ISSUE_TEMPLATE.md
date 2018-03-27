@@ -1,5 +1,5 @@
 <!--
-Welcome to the CR-API issue tracker. Any feature requests / bug reports can be posted here.
+Welcome to the RoyaleAPI issue tracker. Any feature requests / bug reports can be posted here.
 -->
 
 ## Request Details:
@@ -8,7 +8,7 @@ Paste the exact request sent to the server below:
 -->
 ```
 GET
-http://api.cr-api.com/top/clans
+https://api.royaleapi.com/top/clans
 ```
 
 ## Response Details:
@@ -36,5 +36,5 @@ Steps to reproduce the problem
 <!--
 Some guidelines: 
 
-If it’s a question (anything along the lines of “How do I … in Postman”), the answer might lie in our documentation - http://docs.cr-api.com/
+If it’s a question (anything along the lines of “How do I … in Postman”), the answer might lie in our documentation - https://docs.royaleapi.com/
 -->
