@@ -53,7 +53,7 @@ For contribution related matters, please DM Selfish on Discord.
 
 We have put together a short set of guidelines you can follow while adding an issue to our [GitHub issue tracker](https://github.com/RoyaleAPI/cr-api/issues). Following this should help speedy resolution of issues.
 
-1. Answer to questions along the lines of "How do I... in cr-api" should be in our online documentation at [https://docs.cr-api.com](https://docs.RoyaleAPI.com). <!--If you are unable to find a how-to guide in our online documentation, feel free to ask your question on our [Discord Server](#the-community).-->
+1. Answer to questions along the lines of "How do I... in cr-api" should be in our online documentation at [https://docs.RoyaleAPI.com](https://docs.RoyaleAPI.com). <!--If you are unable to find a how-to guide in our online documentation, feel free to ask your question on our [Discord Server](#the-community).-->
 
 1. Before reporting an issue use the search feature on the issues page to check if there are issues similar to yours. A lot of issues are duplicates, and it is hard to keep track of them or respond when the issues are solved. If you find your issue already reported, feel free to add "+1" reaction and we will keep a note of it.
 
