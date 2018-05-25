@@ -3,9 +3,9 @@
 
 # Royale API Support Tracker
 
-[![DeepScan grade](https://deepscan.io/api/projects/2373/branches/14187/badge/grade.svg?token=a1fa0980263b30233c0ddf1e9c3ed778290db2ee)](https://deepscan.io/dashboard#view=project&pid=2373&bid=14187)
-[![Run Status](https://api.shippable.com/projects/5ac811dd508f47070008d93f/badge?branch=master)](https://app.shippable.com/github/selfish/cr-api-backend)
-[![Coverage Badge](https://api.shippable.com/projects/5ac811dd508f47070008d93f/coverageBadge?branch=master)](https://app.shippable.com/github/selfish/cr-api-backend)
+![DeepScan grade](https://deepscan.io/api/projects/2373/branches/14187/badge/grade.svg?token=a1fa0980263b30233c0ddf1e9c3ed778290db2ee)
+![Run Status](https://api.shippable.com/projects/5ac811dd508f47070008d93f/badge?branch=master)
+![Coverage Badge](https://api.shippable.com/projects/5ac811dd508f47070008d93f/coverageBadge?branch=master)
 
 
 If you have a suggestion or an issue to report, please use the [issue tracker](https://github.com/cr-api/cr-api/issues).
