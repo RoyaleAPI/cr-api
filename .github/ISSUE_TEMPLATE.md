@@ -21,7 +21,7 @@ If it’s a question (anything along the lines of “How do I … in Postman”)
 <!-- Steps to reproduce the problem -->
 
 ### Request Details:
-<!-- Paste the exact request sent to the server below: -->
+<!-- Paste the exact request, including the tag, sent to the server below: -->
 ```
 GET
 https://api.royaleapi.com/top/clans
