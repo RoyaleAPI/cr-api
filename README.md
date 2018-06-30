@@ -46,19 +46,11 @@ If you are looking for more information regarding features and usage of the app,
 Please use the [issue tracker](https://github.com/RoyaleAPI/cr-api/issues) to report any bugs or file feature requests.
 
 
-#### Development:
-
-We are mostly interested in help parsing the server packets. If you don't know what that means, check out <a href="https://github.com/royale-proxy/cr-messages" target="_blank">royale-proxy/cr-messages</a>.
-If you think you can assist, either create an issue and we'll get back to you, or contact us on Twitter or Discord.
-
-For contribution related matters, please DM Selfish on Discord.
-
-
 ### Guidelines for reporting issues:
 
 We have put together a short set of guidelines you can follow while adding an issue to our [GitHub issue tracker](https://github.com/RoyaleAPI/cr-api/issues). Following this should help speedy resolution of issues.
 
-1. Answer to questions along the lines of "How do I... in cr-api" should be in our online documentation at [https://docs.RoyaleAPI.com](https://docs.RoyaleAPI.com). <!--If you are unable to find a how-to guide in our online documentation, feel free to ask your question on our [Discord Server](#the-community).-->
+1. Answer to questions along the lines of "How do I... in RoyaleAPI" should be in our online documentation at [https://docs.RoyaleAPI.com](https://docs.RoyaleAPI.com). <!--If you are unable to find a how-to guide in our online documentation, feel free to ask your question on our [Discord Server](#the-community).-->
 
 1. Before reporting an issue use the search feature on the issues page to check if there are issues similar to yours. A lot of issues are duplicates, and it is hard to keep track of them or respond when the issues are solved. If you find your issue already reported, feel free to add "+1" reaction and we will keep a note of it.
 
