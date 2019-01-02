@@ -3,6 +3,7 @@
 
 # Royale API Support Tracker
 <p align="right" style="pointer-events:none">
+   <img src="https://img.shields.io/discord/351290254830862337.svg?logo=discord" />
    <img src="https://api.shippable.com/projects/5ac811dd508f47070008d93f/badge?branch=master" />
    <img src="https://api.shippable.com/projects/5ac811dd508f47070008d93f/coverageBadge?branch=master" />
    <img src="https://ga-beacon.appspot.com/UA-105476425-2/RoyaleAPI/readme" />
