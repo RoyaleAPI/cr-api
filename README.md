@@ -3,8 +3,8 @@
 
 # Royale API Support Tracker
 <p align="right" style="pointer-events:none">
-![Run Status](https://api.shippable.com/projects/5ac811dd508f47070008d93f/badge?branch=master)
-![Coverage Badge](https://api.shippable.com/projects/5ac811dd508f47070008d93f/coverageBadge?branch=master)
+<img src="https://api.shippable.com/projects/5ac811dd508f47070008d93f/badge?branch=master" />
+<img src="https://api.shippable.com/projects/5ac811dd508f47070008d93f/coverageBadge?branch=master" />
 </p>
 
 If you have a suggestion or an issue to report, please use the [issue tracker](https://github.com/cr-api/cr-api/issues).
