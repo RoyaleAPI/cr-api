@@ -3,8 +3,9 @@
 
 # Royale API Support Tracker
 <p align="right" style="pointer-events:none">
-<img src="https://api.shippable.com/projects/5ac811dd508f47070008d93f/badge?branch=master" />
-<img src="https://api.shippable.com/projects/5ac811dd508f47070008d93f/coverageBadge?branch=master" />
+   <img src="https://api.shippable.com/projects/5ac811dd508f47070008d93f/badge?branch=master" />
+   <img src="https://api.shippable.com/projects/5ac811dd508f47070008d93f/coverageBadge?branch=master" />
+   <img src="https://ga-beacon.appspot.com/UA-105476425-2/RoyaleAPI/readme" />
 </p>
 
 If you have a suggestion or an issue to report, please use the [issue tracker](https://github.com/cr-api/cr-api/issues).
@@ -61,8 +62,4 @@ We have put together a short set of guidelines you can follow while adding an is
 
 ### About CR-API:
 
-<a href="https://www.RoyaleAPI.com">www.RoyaleAPI.com</a>
-
----
-
-[![Analytics](https://ga-beacon.appspot.com/UA-105476425-2/RoyaleAPI/readme)](https://docs.RoyaleAPI.com)
+<a href="https://www.royaleapi.com">www.royaleapi.com</a>
