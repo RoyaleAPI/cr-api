@@ -3,10 +3,8 @@
 
 # Royale API Support Tracker
 
-![DeepScan grade](https://deepscan.io/api/projects/2373/branches/14187/badge/grade.svg?token=a1fa0980263b30233c0ddf1e9c3ed778290db2ee)
 ![Run Status](https://api.shippable.com/projects/5ac811dd508f47070008d93f/badge?branch=master)
 ![Coverage Badge](https://api.shippable.com/projects/5ac811dd508f47070008d93f/coverageBadge?branch=master)
-
 
 If you have a suggestion or an issue to report, please use the [issue tracker](https://github.com/cr-api/cr-api/issues).
 We recommend that you search the issue tracker to check if someone else has already reported the issue and whether there is a known solution that you can use. This probably is the fastest way for you to find a solution to any issue that you are facing.
